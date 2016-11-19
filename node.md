@@ -321,6 +321,7 @@ use -g for global
 will install under home/my_app/node_modules/request
  
  my_app/package.json
+
  ```json
 {
 	"name": "My App",
@@ -329,11 +330,13 @@ will install under home/my_app/node_modules/request
 		"connect": "1.8.7"
 	}
 }
+
  ```
 
  and ``npm install`` to install
 
- ### Semantic Versioning
+
+### Semantic Versioning
 
 Connect: 1.8.7
 
